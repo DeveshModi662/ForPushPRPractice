@@ -1,6 +1,8 @@
 # SuperMarket
 Implementation of supermarket invoice sequence
 
+The functionalities are :
+
 Program handling the Super Market invoice sequence
 
 Inventory = Product database with product name, code and quantity
