@@ -9,7 +9,7 @@ Inventory = Product database with product name, code and quantity
     Used hashing with chaining(bucket = 13) because it is quick to search
 
 Customer database = Name, Identification, Bill, Points
-          - do -
+    Same as inventory
     
 Manager = Manages the inventory and customers
     Can read, write, delete in inventory and customer database
